@@ -1,5 +1,7 @@
 # Soda Sales in the US – An Interactive Dashboard
 
+![Dashboard Preview](soda-dashboard-preview.png)
+
 ## Project Overview
 This interactive Tableau dashboard analyzes soda sales performance across the United States with a focus on profitability.
 
