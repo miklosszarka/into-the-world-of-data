@@ -1,5 +1,7 @@
 # Digital Takeover
 
+![Dashboard Preview](digital-takeover-dashboard-preview.png)
+
 ## Project Overview
 **Digital Takeover** is an ongoing Tableau project built around the **Share of US Ad Spend** dataset.
 
