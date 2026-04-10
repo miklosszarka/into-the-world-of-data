@@ -1,5 +1,9 @@
--- Case Study #3 - Foodie-Fi
--- SQL dialect: PostgreSQL
+/*
+=============================
+CASE STUDY #2 - Pizza Metrics
+SQL dialect: PostgreSQL
+=============================
+*/
 
 SET search_path = foodie_fi;
 
