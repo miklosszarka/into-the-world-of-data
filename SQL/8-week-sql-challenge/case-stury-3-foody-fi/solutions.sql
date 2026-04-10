@@ -1,7 +1,5 @@
 -- Case Study #3 - Foodie-Fi
 -- SQL dialect: PostgreSQL
--- Style aligned to earlier Pizza Runner portfolio files:
--- clear sections, answer-first comments, and reusable helper CTEs.
 
 SET search_path = foodie_fi;
 
