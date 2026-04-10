@@ -1,7 +1,6 @@
 /*
 ========================
 CASE STUDY #3 - Foody-Fi
-SQL dialect: PostgreSQL
 ========================
 */
 
