@@ -1,8 +1,8 @@
 /*
-=============================
-CASE STUDY #2 - Pizza Metrics
+========================
+CASE STUDY #3 - Foody-Fi
 SQL dialect: PostgreSQL
-=============================
+========================
 */
 
 SET search_path = foodie_fi;
