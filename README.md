@@ -13,13 +13,13 @@ The goal of this portfolio is to document my learning process, showcase practica
 ## Repository Structure
 
 ### SQL
-SQL practice, challenge solutions, and business-focused query projects.
+SQL practice, challenge solutions, and business-focused query projects. Data analyses mostly. 
 
 ### Tableau
-Interactive dashboards and data visualization projects published on Tableau Public.
+Interactive dashboards and data visualization projects published on Tableau Public. Data analyses mostly.
 
 ### Python
-Planned future projects focused on data analysis, pandas, and automation.
+Planned future projects focused on data analysis, pandas, and automation. Both data analysis and data science projects (each category has it's own subfolder).
 
 ### Power BI
 Planned future dashboard and business intelligence projects.
