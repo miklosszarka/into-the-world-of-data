@@ -44,7 +44,7 @@ The analysis is performed using Python and focuses on extracting business insigh
 ## Project Structure
 
 - `online_retail_analysis.ipynb` → full analysis notebook
-- `online_retail_II.csv` → dataset used for analysis  
+- `online_retail_II.csv` → dataset not included due to file size, download from here: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 - `README.md` → project description  
 
 ---
