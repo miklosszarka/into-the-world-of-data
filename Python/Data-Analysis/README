@@ -1,0 +1,48 @@
+Python – Data Analysis Projects
+
+This folder contains data analysis projects built using Python, primarily focusing on extracting business insights from raw data.
+
+The goal of these projects is to demonstrate practical analytical skills, including data cleaning, exploration, visualization, and interpretation, using tools such as pandas, matplotlib, and seaborn.
+
+⸻
+
+What you can expect
+
+* End-to-end analysis workflows (from raw data to insights)
+* Real-world business-oriented datasets
+* Clear structure and readable notebooks
+* Focus on interpretation, not just code
+
+⸻
+
+Key topics covered
+
+* Data cleaning and preprocessing
+* Exploratory data analysis (EDA)
+* Revenue and trend analysis
+* Customer behavior and segmentation (e.g. RFM)
+* Retention and cohort analysis
+* Business insight generation
+
+⸻
+
+Tools used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* Jupyter Notebook
+
+⸻
+
+Projects
+
+* Online Retail Analysis
+    Customer, product, and revenue analysis including RFM segmentation and cohort-based retention insights.
+
+⸻
+
+Each project is contained in its own folder and includes a dedicated notebook with explanations and conclusions.
+
+⸻
