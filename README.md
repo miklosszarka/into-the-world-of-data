@@ -5,7 +5,7 @@ My journey into the world of data.
 This repository contains both ongoing and completed projects in:
 - SQL
 - Tableau
-- Python *(planned)*
+- Python
 - Power BI *(planned)*
 
 The goal of this portfolio is to document my learning process, showcase practical projects, and build a strong foundation for a future career in data analytics.
